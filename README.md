@@ -1,2 +1,2 @@
-# literate-robot
+# Stripe Checkout
 Payment gateway user-scripts.
